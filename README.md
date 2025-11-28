@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" width="220px" alt="Profile Picture"/>
+  <img src="profile 1.png" width="220px" alt="Profile Picture"/>
 </p>
 
 # Data. Insight. Impact.
